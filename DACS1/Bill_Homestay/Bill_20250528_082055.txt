@@ -1,0 +1,22 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 39120250528082041
+   Mã đặt phòng: 47588
+   Tên khách hàng: Nguyễn Đỗ Thị Kim Tuyền
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 08:20:41 28/05/2025
+   Ngay & Giờ ra phòng: 08:20:52 28/05/2025
+   Tiền phòng: 400.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Đưa đón sân bay    200.000 VND    1    200.000 VND
+Spa    1.500.000 VND    1    1.500.000 VND
+Fitness    200.000 VND    1    200.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Nước lọc    15.000 VND    1    15.000 VND
+Rượu Vodka SMIRNOFF 700ML    400.000 VND    1    400.000 VND
+Bia Heineken 250ML    20.000 VND    1    20.000 VND
+
+Thuế 20%: 467.000 VND
+Tổng hóa đơn: 3.202.000 VND
+==========================================================================

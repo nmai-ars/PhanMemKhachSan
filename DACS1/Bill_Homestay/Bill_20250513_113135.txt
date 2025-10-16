@@ -1,0 +1,23 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 35320250513113135
+   Mã đặt phòng: 95247
+   Tên khách hàng: Nguyễn Thị Hà
+   Mã phòng: 203
+   Ngày & Giờ vào phòng: 11:31:35 13/05/2025
+   Ngay & Giờ ra phòng: 11:31:52 13/05/2025
+   Tiền phòng: 1.200.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Cho thuê xe tự lái    700.000 VND    1    11.900.000 VND
+Đưa đón sân bay    200.000 VND    1    3.400.000 VND
+Dùng điểm tâm    500.000 VND    1    8.500.000 VND
+Trông trẻ    300.000 VND    1    5.100.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Vang Ý Mango Tropical 750ML    500.000 VND    1    500.000 VND
+Rượu Vodka SMIRNOFF 700ML    400.000 VND    1    400.000 VND
+Snack khoai tây    20.000 VND    1    20.000 VND
+
+Thuế 20%: 5.964.000 VND
+Tổng hóa đơn: 36.984.000 VND
+==========================================================================

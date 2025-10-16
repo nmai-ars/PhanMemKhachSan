@@ -1,0 +1,21 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 93220250423184243
+   Mã đặt phòng: 28127
+   Tên khách hàng: Trần Thị Vy Trúc
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 18:42:43 23/04/2025
+   Ngay & Giờ ra phòng: 18:42:48 23/04/2025
+   Tiền phòng: 400.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Đưa đón sân bay    200.000 VND    1    1.000.000 VND
+Dùng điểm tâm    500.000 VND    1    2.500.000 VND
+Giặt ủi    100.000 VND    1    500.000 VND
+Spa    1.500.000 VND    1    7.500.000 VND
+Fitness    200.000 VND    1    1.000.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+
+Thuế 20%: 2.500.000 VND
+Tổng hóa đơn: 15.400.000 VND
+==========================================================================

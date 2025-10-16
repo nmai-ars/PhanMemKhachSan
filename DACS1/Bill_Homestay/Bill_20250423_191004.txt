@@ -1,0 +1,19 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 23320250423191004
+   Mã đặt phòng: 60547
+   Tên khách hàng: Le Thi Vy
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 19:10:04 23/04/2025
+   Ngay & Giờ ra phòng: 19:10:24 23/04/2025
+   Tiền phòng: 800.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Cho thuê xe tự lái    700.000 VND    1    14.000.000 VND
+Dùng điểm tâm    500.000 VND    1    10.000.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Coca/Pepsi    20.000 VND    1    20.000 VND
+
+Thuế 20%: 4.804.000 VND
+Tổng hóa đơn: 29.624.000 VND
+==========================================================================

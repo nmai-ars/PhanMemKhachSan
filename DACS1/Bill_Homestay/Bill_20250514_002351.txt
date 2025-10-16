@@ -1,0 +1,17 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 82920250506233905
+   Mã đặt phòng: 45253
+   Tên khách hàng: Trần Thị Ngọc Mai
+   Mã phòng: 103
+   Ngày & Giờ vào phòng: 00:13:12 14/05/2025
+   Ngay & Giờ ra phòng: 00:23:49 14/05/2025
+   Tiền phòng: 21.600.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Snack khoai tây    20.000 VND    1    20.000 VND
+
+Thuế 20%: 4.000 VND
+Tổng hóa đơn: 21.624.000 VND
+==========================================================================

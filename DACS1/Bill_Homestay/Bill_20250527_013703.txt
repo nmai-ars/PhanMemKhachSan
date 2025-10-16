@@ -1,0 +1,24 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 28520250527013652
+   Mã đặt phòng: 25247
+   Tên khách hàng: Lê Thu Hoài
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 01:36:52 27/05/2025
+   Ngay & Giờ ra phòng: 01:36:54 27/05/2025
+   Tiền phòng: 400.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Cho thuê xe tự lái    700.000 VND    1    700.000 VND
+Đưa đón sân bay    200.000 VND    1    200.000 VND
+Dùng điểm tâm    500.000 VND    1    500.000 VND
+Trông trẻ    300.000 VND    1    300.000 VND
+Tuần trăng mật    3.000.000 VND    1    3.000.000 VND
+Giặt ủi    100.000 VND    1    100.000 VND
+Spa    1.500.000 VND    1    1.500.000 VND
+Fitness    200.000 VND    1    200.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+
+Thuế 20%: 1.300.000 VND
+Tổng hóa đơn: 8.200.000 VND
+==========================================================================

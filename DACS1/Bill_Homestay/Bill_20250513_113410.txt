@@ -1,0 +1,16 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 
+   Mã đặt phòng: 
+   Tên khách hàng: 
+   Mã phòng: 203
+   Ngày & Giờ vào phòng: 
+   Ngay & Giờ ra phòng: 11:34:08 13/05/2025
+   Tiền phòng: 600.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+
+Thuế 20%: 0.000 VND
+Tổng hóa đơn: 600.000 VND
+==========================================================================

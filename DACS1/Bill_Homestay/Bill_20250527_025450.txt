@@ -1,0 +1,25 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 30420250527025424
+   Mã đặt phòng: 78941
+   Tên khách hàng: Lê Mỹ Hạ An
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 02:54:24 27/05/2025
+   Ngay & Giờ ra phòng: 02:54:47 27/05/2025
+   Tiền phòng: 800.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Dùng điểm tâm    500.000 VND    1    500.000 VND
+Trông trẻ    300.000 VND    1    300.000 VND
+Tuần trăng mật    3.000.000 VND    1    3.000.000 VND
+Giặt ủi    100.000 VND    1    100.000 VND
+Spa    1.500.000 VND    1    1.500.000 VND
+Fitness    200.000 VND    1    200.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Coca/Pepsi    20.000 VND    1    20.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Bánh KitKat    25.000 VND    2    50.000 VND
+
+Thuế 20%: 1.139.000 VND
+Tổng hóa đơn: 7.634.000 VND
+==========================================================================

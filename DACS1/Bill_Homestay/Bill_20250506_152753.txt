@@ -1,0 +1,19 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 39420250506152702
+   Mã đặt phòng: 14350
+   Tên khách hàng: Trần Thị Ngọc Mai
+   Mã phòng: 203
+   Ngày & Giờ vào phòng: 15:27:53 06/05/2025
+   Ngay & Giờ ra phòng: 15:28:21 06/05/2025
+   Tiền phòng: 1.800.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Bánh KitKat    25.000 VND    1    25.000 VND
+Vang Ý Mango Tropical 750ML    500.000 VND    1    500.000 VND
+Vang Ý Mango Tropical 750ML    500.000 VND    1    500.000 VND
+
+Thuế 20%: 205.000 VND
+Tổng hóa đơn: 3.030.000 VND
+==========================================================================

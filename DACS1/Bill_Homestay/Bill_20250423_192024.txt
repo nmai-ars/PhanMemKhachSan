@@ -1,0 +1,22 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 49320250423191933
+   Mã đặt phòng: 25356
+   Tên khách hàng: Tran Thi Ngoc Mai
+   Mã phòng: 302
+   Ngày & Giờ vào phòng: 19:20:24 23/04/2025
+   Ngay & Giờ ra phòng: 19:20:44 23/04/2025
+   Tiền phòng: 1.600.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Giặt ủi    100.000 VND    1    2.000.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Nước lọc    15.000 VND    1    15.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Snack khoai tây    20.000 VND    1    20.000 VND
+Vang Ý Mango Tropical 750ML    500.000 VND    2    1.000.000 VND
+Rượu Vodka SMIRNOFF 700ML    400.000 VND    1    400.000 VND
+
+Thuế 20%: 692.000 VND
+Tổng hóa đơn: 5.752.000 VND
+==========================================================================

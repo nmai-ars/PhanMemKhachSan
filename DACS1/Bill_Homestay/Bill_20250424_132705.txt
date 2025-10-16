@@ -1,0 +1,20 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 49320250423191933
+   Mã đặt phòng: 40695
+   Tên khách hàng: Tran Thi Ngoc Mai
+   Mã phòng: 303
+   Ngày & Giờ vào phòng: 13:27:05 24/04/2025
+   Ngay & Giờ ra phòng: 13:27:25 24/04/2025
+   Tiền phòng: 1.600.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Cho thuê xe tự lái    700.000 VND    1    14.000.000 VND
+Đưa đón sân bay    200.000 VND    1    4.000.000 VND
+Trông trẻ    300.000 VND    1    6.000.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Bia Heineken 250ML    20.000 VND    1    20.000 VND
+
+Thuế 20%: 4.804.000 VND
+Tổng hóa đơn: 30.424.000 VND
+==========================================================================

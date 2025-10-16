@@ -1,0 +1,19 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 98520250506155928
+   Mã đặt phòng: 46728
+   Tên khách hàng: Trần Thảo Vy
+   Mã phòng: 103
+   Ngày & Giờ vào phòng: 16:13:27 06/05/2025
+   Ngay & Giờ ra phòng: 16:15:32 06/05/2025
+   Tiền phòng: 4.400.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Nước lọc    15.000 VND    1    15.000 VND
+Nước lọc    15.000 VND    1    15.000 VND
+Rượu Vodka SMIRNOFF 700ML    400.000 VND    1    400.000 VND
+
+Thuế 20%: 86.000 VND
+Tổng hóa đơn: 4.916.000 VND
+==========================================================================

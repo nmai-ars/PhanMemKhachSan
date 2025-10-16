@@ -1,0 +1,24 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 98520250506155928
+   Mã đặt phòng: 12653
+   Tên khách hàng: Trần Thảo Vy
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 10:14:58 13/05/2025
+   Ngay & Giờ ra phòng: 10:15:45 13/05/2025
+   Tiền phòng: 1.600.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Tuần trăng mật    3.000.000 VND    1    141.000.000 VND
+Giặt ủi    100.000 VND    1    4.700.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Nước lọc    15.000 VND    1    15.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+
+Thuế 20%: 13.781.672 VND
+Tổng hóa đơn: 161.221.672 VND
+==========================================================================

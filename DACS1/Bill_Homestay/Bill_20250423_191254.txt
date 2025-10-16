@@ -1,0 +1,28 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 35320250423191254
+   Mã đặt phòng: 93237
+   Tên khách hàng: Nguyen Thi Ha
+   Mã phòng: 202
+   Ngày & Giờ vào phòng: 19:12:54 23/04/2025
+   Ngay & Giờ ra phòng: 19:13:49 23/04/2025
+   Tiền phòng: 3.000.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Đưa đón sân bay    200.000 VND    1    11.000.000 VND
+Dùng điểm tâm    500.000 VND    1    27.500.000 VND
+Trông trẻ    300.000 VND    1    16.500.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Bia Heineken 250ML    20.000 VND    1    20.000 VND
+Bia Heineken 250ML    20.000 VND    2    40.000 VND
+Vang Ý Mango Tropical 750ML    500.000 VND    1    500.000 VND
+Snack khoai tây    20.000 VND    1    20.000 VND
+Nước lọc    15.000 VND    4    60.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+Nước Smartwater 500ML    60.000 VND    4    240.000 VND
+Rượu Vodka SMIRNOFF 700ML    400.000 VND    2    800.000 VND
+Coca/Pepsi    20.000 VND    3    60.000 VND
+
+Thuế 20%: 11.353.000 VND
+Tổng hóa đơn: 71.118.000 VND
+==========================================================================

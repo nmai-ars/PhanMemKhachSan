@@ -1,0 +1,21 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 39420250513233442
+   Mã đặt phòng: 64149
+   Tên khách hàng: Trần Thị Ngọc Mai
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 23:34:42 13/05/2025
+   Ngay & Giờ ra phòng: 23:37:12 13/05/2025
+   Tiền phòng: 5.200.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Giặt ủi    100.000 VND    1    15.000.000 VND
+Spa    1.500.000 VND    1    225.000.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Vang Ý Mango Tropical 750ML    500.000 VND    1    500.000 VND
+Coca/Pepsi    20.000 VND    1    20.000 VND
+Snack khoai tây    20.000 VND    1    20.000 VND
+
+Thuế 20%: 5.158.327 VND
+Tổng hóa đơn: 250.898.327 VND
+==========================================================================

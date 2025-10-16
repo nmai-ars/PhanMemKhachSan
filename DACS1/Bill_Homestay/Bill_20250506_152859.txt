@@ -1,0 +1,19 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 13820250506152859
+   Mã đặt phòng: 57457
+   Tên khách hàng: Trần Thảo Vy
+   Mã phòng: 103
+   Ngày & Giờ vào phòng: 15:28:59 06/05/2025
+   Ngay & Giờ ra phòng: 15:29:06 06/05/2025
+   Tiền phòng: 400.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Đưa đón sân bay    200.000 VND    1    1.400.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Nước lọc    15.000 VND    1    15.000 VND
+Bánh KitKat    25.000 VND    1    25.000 VND
+
+Thuế 20%: 288.000 VND
+Tổng hóa đơn: 2.128.000 VND
+==========================================================================

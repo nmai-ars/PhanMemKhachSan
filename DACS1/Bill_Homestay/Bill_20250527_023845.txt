@@ -1,0 +1,21 @@
+=========================== HÓA ĐƠN KHÁCH HÀNG ===========================
+   Mã khách hàng: 94020250527023824
+   Mã đặt phòng: 78769
+   Tên khách hàng: Trần Thảo Nhi
+   Mã phòng: 101
+   Ngày & Giờ vào phòng: 02:38:24 27/05/2025
+   Ngay & Giờ ra phòng: 02:38:44 27/05/2025
+   Tiền phòng: 800.000 VND
+--------------Dịch vụ đặt trước--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Cho thuê xe tự lái    700.000 VND    1    700.000 VND
+Đưa đón sân bay    200.000 VND    1    200.000 VND
+Spa    1.500.000 VND    1    1.500.000 VND
+--------------Dịch vụ đặt sau--------------
+Tên dịch vụ    Đơn giá  Số lượng   Thành tiền
+Chivas Regal 18 Gold Signature 700ML    1.400.000 VND    3    4.200.000 VND
+Bia Heineken 250ML    20.000 VND    3    60.000 VND
+
+Thuế 20%: 1.332.000 VND
+Tổng hóa đơn: 8.792.000 VND
+==========================================================================
